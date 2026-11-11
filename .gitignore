@@ -1,0 +1,17 @@
+# Se regeneran con tools\build.ps1
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Por si alguna vez se copia música o letras aquí
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.ogg
+*.opus
+*.wma
+*.lrc
